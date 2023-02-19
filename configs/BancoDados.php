@@ -15,7 +15,7 @@ class Conexao
         $hostname = "localhost";
         $database = "id19540077_trabalhodsw";
         $username = "id19540077_krazycars";
-        $password = "Art31102005*";
+        $password = "password";
 
         $dsn = "mysql:host=$hostname;dbname=$database";
         $options = [
